@@ -19,6 +19,14 @@
 3. Tugas 5 ada di folder registertest dimana dalam tugas ini membuat automation test dari API register yang ada di kolak project dengan restassured di java
    dan library tmbahan yaitu faker untuk data utilitynya.
    
+   https://github.com/adikusuma1402/QAJlabBatch8/tree/main/registertest
+
    
 4. Tugas 6 itu mengupload tugas 1 -5 ke github.
+
+
 5. Tugas 7 yaitu mengeluarkan error di Jmeter dan file jmx nya di upload ke github.
+
+   https://github.com/adikusuma1402/QAJlabBatch8/blob/main/jlab_batch8.jmx
+
+   
