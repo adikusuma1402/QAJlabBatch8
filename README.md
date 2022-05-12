@@ -1,6 +1,10 @@
-### QAJlabBatch8
-1. Tugas 1 dan 2 ada di folder Tugas dimana tugas 1 itu membut collection berupa treeset dan treemap di java
-   dimana treeset itu tidak bisa duplikasi element didalamnya, sedangkan treemap itu key-value pair.Sedangkan tugas 2 membuat kalkulator dimana kita bisa      melakukan perhitungan dari 2 anka yang kita inputkan dan juka inputnya bukan angka maka akan mengeluarkan pesan kepada pengguna agar memasukan angka.
+## QAJlabBatch8
+1. Tugas 1 dan 2 ada di folder Tugas dimana 
+
+   ###Tugas 1 itu membut collection berupa treeset dan treemap di java
+   dimana treeset itu tidak bisa duplikasi element didalamnya, sedangkan treemap itu key-value pair.Sedangkan 
+   
+   ###Tugas 2 membuat kalkulator dimana kita bisa      melakukan perhitungan dari 2 anka yang kita inputkan dan juka inputnya bukan angka maka akan            mengeluarkan pesan kepada pengguna agar memasukan angka.
    
    https://github.com/adikusuma1402/QAJlabBatch8/tree/main/Tugas/src/com/tugas
 
