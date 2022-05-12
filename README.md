@@ -28,7 +28,7 @@
 
 3. Tugas 5 ada di folder registertest
    ### Tugas 5
-   dalam tugas ini membuat automation test dari API register yang ada di kolak project dengan restassured di java
+   dalam tugas ini membuat automation test dari API register yang ada di kolak project(https://kolakproject.herokuapp.com/register) dengan restassured di java
    dan library tmbahan yaitu faker untuk data utilitynya.
    
    https://github.com/adikusuma1402/QAJlabBatch8/tree/main/registertest
